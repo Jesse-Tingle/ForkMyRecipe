@@ -1,8 +1,7 @@
 import "./App.css"
-import "./components/Navigation"
 import "./styles/ResetStyles.css"
-import Navigation from "./components/Navigation"
-import Home from "./components/Home"
+import Navigation from "./layouts/Navigation"
+import Home from "./pages/Home"
 
 function App() {
 	return (
